@@ -1,9 +1,9 @@
 ## <div align="center"> Olá! Eu sou o <a href="https://www.linkedin.com/in/johnny-alexandre/" target="_blank">Johnny</a>  ^_^ </div> <br>
 
- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP e Programação Web Java no Instituto PROA - Senac <br> <br>
- 👨🏾‍💻 Procuro aprender no Front-end: HTML, CSS, JavaScript, TypeScript e React | No Back-end: Java, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL e MongoDB. <br> <br>
- 📚 Estudando no momento Java e JavaScript. <br> <br>
- 🎈 Tecnologias utilizadas: Figma, Trello, Git, Eclipse, VSCode. <br>
+ <p>🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP e Programação Web Java no Instituto PROA - Senac</p> <br> <br>
+ <p>👨🏾‍💻 Procuro aprender no Front-end: HTML, CSS, JavaScript, TypeScript e React | No Back-end: Java, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL e MongoDB.</p> <br> <br>
+ <p>📚 Estudando no momento Java e JavaScript.</p> <br> <br>
+ <p>🎈 Tecnologias utilizadas: Figma, Trello, Git, Eclipse, VSCode.</p> <br>
 
 <div align="center">
   <a href="https://github.com/zanchettx">
